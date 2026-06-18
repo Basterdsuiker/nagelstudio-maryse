@@ -2189,6 +2189,7 @@ button,
 #footer .copyright {
   color: #9fa3a6;
   font-size: 0.9em;
+  text-align: center;
   background: #f5f6f7;
   width: 100%; }
   #footer .copyright a {
