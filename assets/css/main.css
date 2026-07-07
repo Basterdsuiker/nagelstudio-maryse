@@ -1879,7 +1879,7 @@ button,
       #main > .inner > section {
         padding: 3em 0 1em 0 ; } }
 
-/* Sidebar */
+/* Search */
 #search form {
   text-decoration: none;
   position: relative; }
@@ -1915,6 +1915,7 @@ button,
   #search form input[type="text"] {
     padding-right: 2.75em; }
 
+/* Sidebar */
 #sidebar {
   -moz-flex-grow: 0;
   -webkit-flex-grow: 0;
@@ -2193,7 +2194,9 @@ button,
       max-height: 35vh; } }
 
 /* Footer */
-#footer .copyright {
+#footer {
+  color: #9fa3a6;
+  #footer .copyright {
   color: #9fa3a6;
   font-size: 0.9em;
   text-align: center;
@@ -2204,9 +2207,9 @@ button,
 #footer .contact {
   color: #9fa3a6;
   font-size: 0.9em;
-  text-align: center;
+  text-align: left;
   background: #f5f6f7;
-  width: 100%; }
+  width: 100%; } }
 
 /* Menu */
 #menu ul {
