@@ -2106,12 +2106,12 @@ button,
         line-height: 5em;
         position: absolute;
         right: -0.5em;
-        top: 0; } }
-     #header .topnav > ul > li {
-      list-style-type: none;
-      overflow: hidden;
-      float: left;
-      text-decoration: none;}
+        top: 0; }
+      #header .topnav {
+        list-style-type: none;
+        overflow: hidden;
+        float: left;
+        text-decoration: none;} }
 
 /* Banner */
 #banner {
