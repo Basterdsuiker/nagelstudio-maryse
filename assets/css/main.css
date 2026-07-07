@@ -2107,10 +2107,11 @@ button,
         position: absolute;
         right: -0.5em;
         top: 0; } }
-  #header .topnav {
-    list-style-type: none;
-    overflow: hidden;
-  }
+     #header .topnav {
+      list-style-type: none;
+      overflow: hidden;
+      float: left;
+      text-decoration: none;}
 
 /* Banner */
 #banner {
