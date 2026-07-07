@@ -2107,7 +2107,7 @@ button,
         position: absolute;
         right: -0.5em;
         top: 0; } }
-     #header .topnav {
+     #header .topnav > ul > li {
       list-style-type: none;
       overflow: hidden;
       float: left;
